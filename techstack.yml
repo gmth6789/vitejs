@@ -1,11 +1,12 @@
 repo_name: gmth6789/vitejs
 report_id: 57fc44758faa63fe3ed8c879fcaea68d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:29:23+00:00'
+timestamp: '2024-01-04T14:59:48+00:00'
 requested_by: gmth6789
 provider: github
 branch: main
-detected_tools_count: 29
+detected_tools_count: 30
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/gmth6789/vitejs
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/gmth6789/vitejs
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/gmth6789/vitejs
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -45,6 +49,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/templates/react/src/App.jsx
   detection_source: create-liff-app/templates/react/src/App.jsx
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -58,7 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -71,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/package.json
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -82,6 +88,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gmth6789/vitejs
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -93,7 +100,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -107,7 +114,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -119,6 +126,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/yarn.lock
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -130,6 +138,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/package.json
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -139,6 +148,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/package.json
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -152,7 +162,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -166,7 +176,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -180,7 +190,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -194,7 +204,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18504/default_aabef48673d7b85e098f65ec3d0fa0b5983de6b5.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -208,7 +218,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16530/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -222,7 +232,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -236,7 +246,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -250,7 +260,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -264,7 +274,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
+  detection_source: create-liff-app/package.json
+  last_updated_by: gmth6789
+  last_updated_on: 2023-09-26 09:47:37.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -278,7 +302,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -292,7 +316,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16069/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -306,7 +330,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -320,7 +344,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -334,7 +358,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -348,7 +372,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -363,7 +387,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
@@ -377,7 +401,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16712/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
-  detection_source_url: create-liff-app/yarn.lock
+  detection_source_url: https://github.com/gmth6789/vitejs/blob/main/create-liff-app/yarn.lock
   detection_source: create-liff-app/package.json
   last_updated_by: gmth6789
   last_updated_on: 2023-09-26 09:47:37.000000000 Z
